@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - Languages: Python, JavaScript, TypeScript, C++, Java, C#, Rust, Golang
 - Frontend: React, HTML, CSS, Tailwind CSS, Angular, Vue
 - Backend: Node.js, Express, Flask, Spring
-- Database: MongoDB, PostgreSQL
+- Database: MongoDB, PostgreSQL, MySQL, Redis, DynamoDB, Firebase
 - Tools: Git, Docker, GitHub Actions, VS Code
 
 ## 💻 GitHub Stats
