@@ -12,16 +12,35 @@
 ### About me
 
 Software Engineer with **10+ years** building scalable backend systems and APIs for client-facing and
-mobile-driven platforms. Strong focus on **distributed systems, reliability, and observability** —
-designing resilient architectures with circuit breakers, retries, fallbacks and caching strategies.
+mobile-driven platforms. I design **resilient, observable architectures** (circuit breakers, retries,
+fallbacks, caching) and own features full-cycle: **design → build → deploy → monitor → improve**.
+Currently a Senior Software Engineer / Consultant at **GSoftX**, delivering backend and system-design
+work for global clients.
 
-- 🏗️  Worked across **fintech, healthcare, telecom and supply chain**, on systems used by millions.
-- 📈  Reduced order failures by **40%** and increased usage by **70%** on a large-scale supply chain platform.
+- 🏗️  Domains: **fintech, healthcare, telecom and supply chain** — systems used by millions of users.
+- 📈  Reduced order failures by **40%** and increased usage by **70%** on a large-scale supply-chain platform.
 - ⚡  Part of the team building real-time payment microservices for **PIX**, integrating COBOL mainframes via Apache Camel.
-- 🔭  Full-cycle ownership: **design → build → deploy → monitor → improve**.
-- 🤖  Hands-on with **AI-assisted development** and LLM integrations (OpenAI, Gemini, Llama).
-- 🎓  MBA in Software Architecture & Full Cycle Development (in progress) — DDD, Clean Architecture, large-scale design.
-- 📫  Reach me at **italo_2512@hotmail.com**
+- 🔌  Strong in **API design** (REST/GraphQL), the **BFF pattern**, and **event-driven / distributed systems**.
+- 📊  Observability-first: Datadog, Grafana, structured logging and dashboards (BigQuery/Data Studio) to cut incidents.
+- 🐍  Built **ETL pipelines**, data processing and **OCR** document workflows in Python & Go.
+- 🤖  Hands-on with **AI-assisted development** and LLM integrations (OpenAI, Gemini, Llama, Claude).
+- 🎓  MBA in **Software Architecture & Full Cycle Development** (in progress) — DDD, Clean Architecture, large-scale design.
+- 🌍  Working remotely across time zones (**GMT-8 to GMT+3**).
+- 📫  Reach me at **italo_2512@hotmail.com** · ✍️  I write on [Medium](https://medium.com/@italogouvei14).
+
+---
+
+### Featured Projects
+
+**[MyAnimeAPI](https://github.com/italo-gouveia/myanimeapi)** · `Go`
+Multi-protocol API (**REST + GraphQL**) for anime, users, reviews and auth, built on **hexagonal architecture**
+so new adapters (gRPC, WebSocket) plug in without touching business logic.
+Stack: Go · Gorilla Mux · gqlgen · GORM · PostgreSQL — [live demo](https://myanimeapi-two.vercel.app).
+
+**[Qualitara Fleet Telemetry](https://github.com/italo-gouveia/qualitara-fleet-telemetry)** · `Python`
+Real-time monitoring for **50 autonomous industrial vehicles** emitting telemetry at 1 Hz — production-grade
+**async Python**, atomic concurrency patterns and a live React dashboard.
+Stack: FastAPI · PostgreSQL · Prometheus · React.
 
 ---
 
@@ -82,18 +101,18 @@ designing resilient architectures with circuit breakers, retries, fallbacks and 
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
-![ECS/EKS](https://img.shields.io/badge/ECS%20/%20EKS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![ECS/EKS](https://img.shields.io/badge/ECS%20/%20EKS-FF9900?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat)
 ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat&logo=vault&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-1572B6?style=flat)
@@ -101,30 +120,30 @@ designing resilient architectures with circuit breakers, retries, fallbacks and 
 **Infrastructure as Code**
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat)
 
 **Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat)
 ![ETL](https://img.shields.io/badge/ETL-FF7A59?style=flat)
 
 **Messaging & Streaming**
 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Pub/Sub](https://img.shields.io/badge/Cloud%20Pub%2FSub-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![SQS](https://img.shields.io/badge/AWS%20SQS-FF4F8B?style=flat&logo=amazonsqs&logoColor=white)
-![SNS](https://img.shields.io/badge/AWS%20SNS-FF4F8B?style=flat&logo=amazonsns&logoColor=white)
+![SQS](https://img.shields.io/badge/AWS%20SQS-FF4F8B?style=flat)
+![SNS](https://img.shields.io/badge/AWS%20SNS-FF4F8B?style=flat)
 
 **Observability**
 
@@ -136,15 +155,15 @@ designing resilient architectures with circuit breakers, retries, fallbacks and 
 ![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=flat&logo=newrelic&logoColor=black)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat&logo=dynatrace&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat)
 
 **AI / LLM**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-09B6A2?style=flat&logo=codeium&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat)
 ![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
@@ -155,7 +174,7 @@ designing resilient architectures with circuit breakers, retries, fallbacks and 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat)
 ![REST Assured](https://img.shields.io/badge/REST%20Assured-47A248?style=flat)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-291A38?style=flat&logo=testcontainers&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-291A38?style=flat)
 ![WireMock](https://img.shields.io/badge/WireMock-32A2DC?style=flat)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=white)
@@ -182,8 +201,15 @@ designing resilient architectures with circuit breakers, retries, fallbacks and 
 ### GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=italo-gouveia&show_icons=true&theme=tokyonight&hide_border=true" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo-gouveia&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="top langs">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo-gouveia&theme=tokyonight" alt="profile summary">
+</p>
+<p align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=italo-gouveia&theme=tokyonight" alt="stats">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italo-gouveia&theme=tokyonight" alt="repos per language">
+</p>
+<p align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italo-gouveia&theme=tokyonight" alt="most commit language">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italo-gouveia&theme=tokyonight&utcOffset=-3" alt="productive time">
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=italo-gouveia&theme=tokyonight&hide_border=true" alt="streak">
