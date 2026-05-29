@@ -17,7 +17,7 @@ designing resilient architectures with circuit breakers, retries, fallbacks and 
 
 - 🏗️  Worked across **fintech, healthcare, telecom and supply chain**, on systems used by millions.
 - 📈  Reduced order failures by **40%** and increased usage by **70%** on a large-scale supply chain platform.
-- ⚡  Built real-time payment microservices for **PIX**, integrating COBOL mainframes via Apache Camel.
+- ⚡  Part of the team building real-time payment microservices for **PIX**, integrating COBOL mainframes via Apache Camel.
 - 🔭  Full-cycle ownership: **design → build → deploy → monitor → improve**.
 - 🤖  Hands-on with **AI-assisted development** and LLM integrations (OpenAI, Gemini, Llama).
 - 🎓  MBA in Software Architecture & Full Cycle Development (in progress) — DDD, Clean Architecture, large-scale design.
@@ -54,6 +54,7 @@ designing resilient architectures with circuit breakers, retries, fallbacks and 
 ![DDD](https://img.shields.io/badge/DDD-005571?style=flat)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2C3E50?style=flat)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![APIGEE](https://img.shields.io/badge/APIGEE-FF6F00?style=flat&logo=googlecloud&logoColor=white)
 
 **Frontend**
@@ -71,6 +72,12 @@ designing resilient architectures with circuit breakers, retries, fallbacks and 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-1572B6?style=flat)
 
+**Infrastructure as Code**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
+
 **Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -79,6 +86,7 @@ designing resilient architectures with circuit breakers, retries, fallbacks and 
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-FF7A59?style=flat)
 
 **Observability**
@@ -86,27 +94,21 @@ designing resilient architectures with circuit breakers, retries, fallbacks and 
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic%20Stack-005571?style=flat&logo=elasticstack&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=flat&logo=newrelic&logoColor=black)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
 
 **AI / LLM**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-09B6A2?style=flat&logo=codeium&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
-
----
-
-### Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| Senior Software Engineer (Consultant) | **GSoftX** | 2023 – Present |
-| Senior Software Engineer / Tech Lead | **SulAmérica** | 2021 – 2023 |
-| Senior Software Engineer | **Santander (PIX)** | 2020 – 2021 |
-| Software Engineer | ServiceNet · Dock · Minsait · Tecgeo | 2017 – 2020 |
-
-Distributed supply-chain platforms, healthcare systems at scale, real-time payments (PIX),
-legacy modernization and payment/POS integrations.
 
 ---
 
