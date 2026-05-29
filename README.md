@@ -64,6 +64,9 @@ designing resilient architectures with circuit breakers, retries, fallbacks and 
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2C3E50?style=flat)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI%20/%20Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![OAuth2](https://img.shields.io/badge/OAuth2%20/%20OIDC-EB5424?style=flat&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Hexagonal](https://img.shields.io/badge/Hexagonal%20/%20Ports%20&%20Adapters-8A2BE2?style=flat)
 ![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat)
 ![APIGEE](https://img.shields.io/badge/APIGEE-FF6F00?style=flat&logo=googlecloud&logoColor=white)
@@ -92,6 +95,7 @@ designing resilient architectures with circuit breakers, retries, fallbacks and 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat&logo=vault&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-1572B6?style=flat)
 
 **Infrastructure as Code**
@@ -108,6 +112,7 @@ designing resilient architectures with circuit breakers, retries, fallbacks and 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
@@ -157,8 +162,20 @@ designing resilient architectures with circuit breakers, retries, fallbacks and 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Locust](https://img.shields.io/badge/Locust-2D9D78?style=flat&logo=locust&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman%20%2F%20Newman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber%20/%20BDD-23D96C?style=flat&logo=cucumber&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
 ![JaCoCo](https://img.shields.io/badge/JaCoCo-D22128?style=flat)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+
+**Practices & Methodologies**
+
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=flat&logo=trello&logoColor=white)
+![Code Review](https://img.shields.io/badge/Code%20Review-181717?style=flat&logo=github&logoColor=white)
+![Pair Programming](https://img.shields.io/badge/Pair%20Programming-FF4F8B?style=flat)
+![Trunk-Based](https://img.shields.io/badge/Trunk--Based%20Development-1572B6?style=flat)
 
 ---
 
