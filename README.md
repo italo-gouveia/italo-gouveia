@@ -46,7 +46,10 @@ designing resilient architectures with circuit breakers, retries, fallbacks and 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![Apache Camel](https://img.shields.io/badge/Apache%20Camel-F69923?style=flat&logo=apache&logoColor=white)
 
@@ -54,6 +57,8 @@ designing resilient architectures with circuit breakers, retries, fallbacks and 
 
 ![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat)
 ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-4B32C3?style=flat)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-FF9900?style=flat)
+![SOLID](https://img.shields.io/badge/SOLID-2C3E50?style=flat)
 ![BFF](https://img.shields.io/badge/BFF-512BD4?style=flat)
 ![DDD](https://img.shields.io/badge/DDD-005571?style=flat)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2C3E50?style=flat)
@@ -69,6 +74,8 @@ designing resilient architectures with circuit breakers, retries, fallbacks and 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -83,6 +90,8 @@ designing resilient architectures with circuit breakers, retries, fallbacks and 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat&logo=vault&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI/CD-1572B6?style=flat)
 
 **Infrastructure as Code**
@@ -101,6 +110,7 @@ designing resilient architectures with circuit breakers, retries, fallbacks and 
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-FF7A59?style=flat)
 
@@ -131,18 +141,23 @@ designing resilient architectures with circuit breakers, retries, fallbacks and 
 ![Windsurf](https://img.shields.io/badge/Windsurf-09B6A2?style=flat&logo=codeium&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
 ![Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
 **Testing & Quality**
 
+![TDD](https://img.shields.io/badge/TDD-FF6C37?style=flat)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat)
+![REST Assured](https://img.shields.io/badge/REST%20Assured-47A248?style=flat)
 ![Testcontainers](https://img.shields.io/badge/Testcontainers-291A38?style=flat&logo=testcontainers&logoColor=white)
 ![WireMock](https://img.shields.io/badge/WireMock-32A2DC?style=flat)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat&logo=cypress&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Locust](https://img.shields.io/badge/Locust-2D9D78?style=flat&logo=locust&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman%20%2F%20Newman-FF6C37?style=flat&logo=postman&logoColor=white)
+![JaCoCo](https://img.shields.io/badge/JaCoCo-D22128?style=flat)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 
 ---
